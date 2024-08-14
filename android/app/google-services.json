@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687154538428",
+    "project_id": "authentication-handler",
+    "storage_bucket": "authentication-handler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687154538428:android:4713b4cdc4d21a05e12db9",
+        "android_client_info": {
+          "package_name": "com.example.authenticatin_handler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxYrzmqlRhVii7U0FLSZ9uzOnXrbW3JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
